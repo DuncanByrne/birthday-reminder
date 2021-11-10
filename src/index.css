@@ -43,8 +43,8 @@ Variables
   --fixed-width: 450px;
   --clr-background: radial-gradient(
     circle,
-    rgba(196, 86, 92, 0.8534883720930233) 0%,
-    rgba(66, 54, 54, 0.8325581395348838) 100%
+    rgba(0, 173, 255, 0.9930232558139535) 0%,
+    rgba(71, 68, 68, 1) 100%
   );
 }
 /*

@@ -15,7 +15,7 @@ const List = ({people}) =>{
         </article>
       );
     })}
-    <h2>List</h2>
+    <h2></h2>
     </>
   );
 };
