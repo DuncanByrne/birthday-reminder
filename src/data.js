@@ -18,8 +18,8 @@ export default [
   },
    {
      id: 4,
-    name: 'Michelle Scott',
-    age: 51,
+    name: 'Michelle Obama',
+    age: 57,
 
   },
    {
@@ -28,4 +28,4 @@ export default [
     age: 22,
 
   },
-]
+];
